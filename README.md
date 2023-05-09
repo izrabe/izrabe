@@ -1,16 +1,21 @@
-### Hi there 👋
+Izra-Bereket
+<h1 align="center">Hi there! I'm Izra Bereket</h1>
+<h3 align="center"> I am currently an Undergrad Student Pursuing a bachelors in Computer Science at the University of Minnesota Twin Cities </h3>
 
-<!--
-**izrabe/izrabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 **I’m currently learning** IT Infrastructure at the University of Minnesota Twin Cities
 
-Here are some ideas to get you started:
+- 📫 **How to reach me** bereketizraaa123@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📄 **Know about my experiences** [https://www.linkedin.com/in/izrabereket/](https://www.linkedin.com/in/izrabereket/)
+
+- ⚡ **Fun fact** I enjoy Soccer and spending time with friends & family
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/izrabereket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="izrabereket" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+**Python, Java, SQL**
+**Microsoft Azure, AWS**
