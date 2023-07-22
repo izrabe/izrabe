@@ -1,8 +1,8 @@
 Izra-Bereket
 <h1 align="center">Hi there! I'm Izra Bereket</h1>
-<h3 align="center"> I am currently an Undergrad Student Pursuing a bachelors in IT Infrastructure at the University of Minnesota Twin Cities </h3>
+<h3 align="center"> I am currently an Undergrad Student Pursuing a bachelor's in Computer & Info. Science at the University of Minnesota Twin Cities </h3>
 
-- 🌱 **I’m currently learning** IT Infrastructure at the University of Minnesota Twin Cities
+- 🌱 **I’m currently learning** Computer & Info. Science at the University of Minnesota Twin Cities
 
 - 📫 **How to reach me** bereketizraaa123@gmail.com
 
